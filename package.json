@@ -1,0 +1,15 @@
+{
+    "name": "wp-gutenberg-sidebar",
+    "version": "1.0.0",
+    "description": "A learning plugin for gutenberg sidebar",
+    "main": "index.js",
+    "scripts": {
+        "start": "wp-scripts start",
+        "build": "wp-scripts build"
+    },
+    "author": "Md. Rabiul Islam",
+    "license": "MIT",
+    "devDependencies": {
+        "@wordpress/scripts": "^16.1.2"
+    }
+}
